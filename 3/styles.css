@@ -1,0 +1,16 @@
+h1 {
+  text-decoration: underline;
+}
+.main {
+  background-image: url(https://th.bing.com/th/id/OIP.RPDH43-x2hs7acMJF7L8VAHaHa?w=193&h=194&c=7&r=0&o=5&pid=1.7);
+  background-position-y: 150px;
+  background-repeat: 3-repeat;
+  height: 400px;
+  width: 200px;
+  border: 2px solid block;
+}
+body {
+  border: 2px solid black;
+  height: 550px;
+  width: 300px;
+}
